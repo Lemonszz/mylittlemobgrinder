@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "mylittlemobgrinder:advanced_conveyor" },
+    "facing=south": { "model": "mylittlemobgrinder:advanced_conveyor", "y": 180 },
+    "facing=west":  { "model": "mylittlemobgrinder:advanced_conveyor", "y": 270 },
+    "facing=east":  { "model": "mylittlemobgrinder:advanced_conveyor", "y": 90 }
+  }
+}

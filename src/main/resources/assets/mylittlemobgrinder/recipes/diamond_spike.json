@@ -1,0 +1,21 @@
+{
+  "result": {
+    "item": "mylittlemobgrinder:diamond_spike",
+    "count": 1
+  },
+  "pattern": [
+    " S ",
+    "SBS",
+    " S "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "B": {
+      "type": "forge:ore_dict",
+      "ore" : "blockDiamond"
+    },
+    "S": {
+      "item": "minecraft:diamond_sword"
+    }
+  }
+}

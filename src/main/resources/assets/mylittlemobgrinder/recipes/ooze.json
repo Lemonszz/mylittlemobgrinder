@@ -1,0 +1,21 @@
+{
+  "result": {
+    "item": "mylittlemobgrinder:mob_ooze",
+    "count": 6
+  },
+  "pattern": [
+    " G ",
+    "SSS",
+    "SSS"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "G": {
+      "item" : "minecraft:skull",
+      "data" : 1
+    },
+    "S": {
+      "item": "mylittlemobgrinder:shadow_stone"
+    }
+  }
+}

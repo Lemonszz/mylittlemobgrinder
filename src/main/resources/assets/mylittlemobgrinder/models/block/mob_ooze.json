@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_top",
+  "textures": {
+    "top": "mylittlemobgrinder:blocks/mob_ooze",
+    "side": "mylittlemobgrinder:blocks/shadow_stone"
+  }
+}

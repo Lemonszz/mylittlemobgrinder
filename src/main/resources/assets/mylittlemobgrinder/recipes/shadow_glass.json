@@ -1,0 +1,21 @@
+{
+  "result": {
+    "item": "mylittlemobgrinder:shadow_glass",
+    "count": 6
+  },
+  "pattern": [
+    "BSB",
+    "SBS",
+    "BSB"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "B": {
+      "type": "forge:ore_dict",
+      "ore" : "blockGlass"
+    },
+    "S": {
+      "item": "minecraft:soul_sand"
+    }
+  }
+}

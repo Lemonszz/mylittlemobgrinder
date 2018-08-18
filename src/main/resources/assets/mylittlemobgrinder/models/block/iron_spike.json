@@ -1,0 +1,6 @@
+﻿{
+    "parent": "mylittlemobgrinder:block/spikebase",
+	"textures": {
+		"0": "blocks/iron_block"
+	}
+}

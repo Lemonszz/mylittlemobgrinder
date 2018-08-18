@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "mylittlemobgrinder:basic_conveyor" },
+    "facing=south": { "model": "mylittlemobgrinder:basic_conveyor", "y": 180 },
+    "facing=west":  { "model": "mylittlemobgrinder:basic_conveyor", "y": 270 },
+    "facing=east":  { "model": "mylittlemobgrinder:basic_conveyor", "y": 90 }
+  }
+}

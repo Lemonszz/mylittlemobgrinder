@@ -1,0 +1,7 @@
+{
+  "parent": "mylittlemobgrinder:block/conveyor",
+  "textures": {
+    "particle": "mylittlemobgrinder:blocks/advanced_conveyor",
+    "wool": "mylittlemobgrinder:blocks/advanced_conveyor"
+  }
+}

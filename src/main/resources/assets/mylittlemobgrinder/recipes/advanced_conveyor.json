@@ -1,0 +1,24 @@
+{
+  "result": {
+    "item": "mylittlemobgrinder:advanced_conveyor",
+    "count": 16
+  },
+  "pattern": [
+    "RIR",
+    "SSS"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "R": {
+      "type": "forge:ore_dict",
+      "ore" : "dustRedstone"
+    },
+    "I": {
+      "type": "forge:ore_dict",
+      "ore" : "gemDiamond"
+    },
+    "S": {
+      "item": "mylittlemobgrinder:shadow_stone"
+    }
+  }
+}

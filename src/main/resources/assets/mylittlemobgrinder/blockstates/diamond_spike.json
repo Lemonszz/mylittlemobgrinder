@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up":    { "model": "mylittlemobgrinder:diamond_spike", "uvlock": true },
+        "facing=down":  { "model": "mylittlemobgrinder:diamond_spike", "uvlock": true, "x": 180 },
+        "facing=east":  { "model": "mylittlemobgrinder:diamond_spike", "uvlock": true, "x": 90, "y": 90 },
+        "facing=west":  { "model": "mylittlemobgrinder:diamond_spike", "uvlock": true, "x": 90, "y": 270 },
+        "facing=south": { "model": "mylittlemobgrinder:diamond_spike", "uvlock": true, "x": 90, "y": 180 },
+        "facing=north": { "model": "mylittlemobgrinder:diamond_spike", "uvlock": true, "x": 90 }
+    }
+}
